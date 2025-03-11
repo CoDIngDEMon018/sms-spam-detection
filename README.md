@@ -1,4 +1,4 @@
-# Email Spam Classifier  
+# SMS Spam Classifier  
 
 ## Overview  
 An end-to-end **machine learning model** to classify emails as **spam or ham** (not spam). This project leverages **NLP techniques** and **ML algorithms** to detect spam with high accuracy.  
